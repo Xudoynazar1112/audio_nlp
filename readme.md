@@ -17,7 +17,7 @@
 ## Demo
 - **Input**: `kings_and_queens.mp3` (a sample audio file).
 - **Outputs**:
-  - `output_directory/kings_and_queens/vocals.wav`: Separated vocal track.
+  - `output_directory/kings_and_queens/vocals.wav`: Separated vocal track. (Not in repo, but after you running program those generated)
   - `lyrics.txt`: Transcribed lyrics.
   - `summary.txt`: Summary of the lyrics.
   - `category.txt`: Genre, mood, and theme classification.
